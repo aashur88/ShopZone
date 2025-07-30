@@ -10,8 +10,7 @@
 ---
 
 ## 🚀 Live Demo
-🔗 [View ShopZone Live](https://your-username.github.io/shopzone/)  
-*(Replace with your actual GitHub Pages link after deployment)*
+🔗 https://aashur88.github.io/ShopZone/ 
 
 ---
 
