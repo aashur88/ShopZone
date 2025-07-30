@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Checkout</title>
+  </head>
+  <body>
+    <h1>Checkout Page</h1>
+    <p>Thanks for shopping!</p>
+    <button onclick="placeOrder()">Place Order</button>
+
+    <script>
+      function placeOrder() {
+        localStorage.removeItem("cart");
+        alert("Order placed successfully!");
+        window.location.href = "product.html";
+      }
+    </script>
+  </body>
+</html>
